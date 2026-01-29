@@ -5,8 +5,8 @@
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat)](https://huggingface.co/transformers/)
 [![SLURM](https://img.shields.io/badge/SLURM-0078D4?style=flat)](https://slurm.schedmd.com/)
 
-> Stage de recherche (4 mois) au LIPN axé sur la classification multi-label extrême avec curriculum learning et modèles Transformer.
-> **PS:** The trained models could not be included in this repository due to their size. For access to the models, please contact me at benamarnaoufal@gmail.com.
+> Stage de recherche (4 mois) au LIPN axé sur la classification multi-label extrême avec curriculum learning et modèles Transformer. 
+> **P-S:** The trained models could not be included in this repository due to their size. For access to the models, please contact me at benamarnaoufal@gmail.com.
 
 ---
 
