@@ -7,9 +7,6 @@
 
 > Stage de recherche (4 mois) au LIPN axé sur la classification multi-label extrême avec curriculum learning et modèles Transformer.
 
-![Research Overview](assets/research_overview.png)
-*Vue d'ensemble de l'approche de curriculum learning*
-
 ---
 
 ## 📖 Table des matières
